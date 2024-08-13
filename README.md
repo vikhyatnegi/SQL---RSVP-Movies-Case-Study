@@ -11,7 +11,7 @@ The production company wants to plan their every move analytically based on data
 You are a data analyst and an SQL expert. You must use SQL to analyze the given data and give recommendations to RSVP Movies based on the insights. For your convenience, the entire analytics process has been divided into four segments, where each segment leads to significant insights from different combinations of tables. The questions in each segment with business objectives are written in the script.
 
 # Data Set and Database Creation
-# Download the IMDb dataset.
+Download the IMDb dataset.
 The first tab contains the ERD and the table details. Study that carefully and understand the relationships between the table.
 Inspect each table given in the subsequent tabs and understand the features associated with each of them.
 Open your MySQL Workbench and start writing the DDL and DML commands to create the database.
